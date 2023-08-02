@@ -1,4 +1,4 @@
 # CN
 Computación Numérica - FIB 
 
-curso 2022-2023
+Curso 2022-2023
